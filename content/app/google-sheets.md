@@ -4,10 +4,6 @@ title: Google Sheets
 app_url: https://sheets.google.com
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Google Inc.
 ---
 Create, edit, and collaborate with others on spreadsheets with the free Google Sheets app. With Google Sheets you can:

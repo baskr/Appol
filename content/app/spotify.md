@@ -4,10 +4,6 @@ title: Spotify
 app_url: https://play.spotify.com/
 categories:
   - music
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Spotify Ltd.
 ---
 Spotify is now free on mobile and tablet. Listen to the right music, wherever you are.

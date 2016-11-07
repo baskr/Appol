@@ -4,10 +4,6 @@ title: WhatsApp Web
 app_url: https://web.whatsapp.com
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
 developer: WhatsApp Inc.
 ---
 Quickly send and receive WhatsApp messages right from your computer.

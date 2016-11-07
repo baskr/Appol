@@ -4,10 +4,6 @@ title: Basecamp
 app_url: https://3.basecamp.com
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Basecamp Inc.
 ---
 For over 10 years, millions have trusted Basecamp’s unique blend of tools for everything their team needs to stay on the same page about whatever they’re working on. There’s nothing else like it!

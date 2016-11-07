@@ -4,10 +4,6 @@ title: WeChat Web
 app_url: https://web.wechat.com
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Tencent Technology (Shenzhen) Company Limited
 ---
 WeChat is a free messaging & calling app that allows you to easily connect with family & friends across countries. It’s the all-in-one communications app for free text (SMS/MMS), voice & video calls, moments, photo sharing, and games.

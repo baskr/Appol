@@ -4,10 +4,6 @@ title: Google Slides
 app_url: https://slides.google.com
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Google Inc.
 ---
 Create, edit, and collaborate with others on presentations with the free Google Slides app. With Google Slides you can:

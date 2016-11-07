@@ -4,10 +4,6 @@ title: Asana
 app_url: https://asana.com
 categories:
   - business
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Asana, Inc.
 ---
 Asana is the easiest way for teams to track their work and get results. From tasks and projects to conversations and notifications, Asana enables teams to move work from start to finish. It’s simple to get started, but powerful enough to run your entire business. And it’s free.

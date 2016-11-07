@@ -4,12 +4,6 @@ title: Twitter
 app_url: https://www.twitter.com
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: Twitter Inc.
 ---
 Find the best of Twitter in an instant with Moments. Follow top stories through immersive pics, clips, and conversations. Get insights and perspectives you won't find anywhere else.

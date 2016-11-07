@@ -4,10 +4,6 @@ title: Google Docs
 app_url: https://docs.google.com
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Google Inc.
 ---
 Create, edit, and collaborate with others on documents with the free Google Docs app. With Google Docs you can:

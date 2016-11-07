@@ -4,10 +4,6 @@ title: Feedly
 app_url: https://feedly.com
 categories:
   - news-weather
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Feedly Team
 ---
 A single place to easily read all the news you rely on to think, learn, and keep ahead.

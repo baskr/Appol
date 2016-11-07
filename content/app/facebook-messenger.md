@@ -4,10 +4,6 @@ title: Facebook Messenger
 app_url: https://www.messenger.com/login
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Facebook Inc.
 ---
 Instantly reach the people in your life—for free. Messenger is just like texting, but you don't have to pay for every message (it works with your data plan).

@@ -5,12 +5,6 @@ app_url: https://youtube.com
 categories:
   - entertainment
   - photo-video
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: Google Inc.
 ---
 See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.

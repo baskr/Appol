@@ -4,10 +4,6 @@ title: Evernote
 app_url: https://www.evernote.com/Login.action
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Evernote Corporation
 ---
 Evernote is the modern workspace that syncs between all of your devices. Work everywhere and stay productive:

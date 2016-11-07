@@ -4,12 +4,6 @@ title: Product Hunt
 app_url: https://www.producthunt.com/
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: Product Hunt, Inc.
 ---
 Discover the best new apps, games, books, and podcasts, every day.

@@ -4,10 +4,6 @@ title: GroupMe
 app_url: https://web.groupme.com
 categories:
   - social
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Mindless Dribble Inc.
 ---
 GroupMe - the free, simple way to stay connected with those who matter most.

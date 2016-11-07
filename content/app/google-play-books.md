@@ -4,10 +4,6 @@ title: Google Play Books
 app_url: https://play.google.com/books
 categories:
   - books-reference
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Google Inc.
 ---
 Choose from millions of books on Google Play including new releases, New York Times® bestsellers, textbooks and free classics. Easily adjust font size and customize even more of your reading experience. Read online or offline and pick up where you left off on your phone, tablet, or computer. Get started reading today!

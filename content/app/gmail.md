@@ -4,12 +4,6 @@ title: Gmail
 app_url: https://gmail.com
 categories:
   - productivity
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: Google Inc.
 ---
 Gmail is an easy to use email app that saves you time and keeps your messages safe. Get your messages instantly via push notifications, read and respond online & offline, and find any message quickly.

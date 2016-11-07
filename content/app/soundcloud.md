@@ -4,10 +4,6 @@ title: SoundCloud
 app_url: https://soundcloud.com
 categories:
   - music
-platforms:
-  - windows
-  - osx
-  - linux
 developer: SoundCloud Inc.
 ---
 Millions of people use SoundCloud to listen to music and audio for free.

@@ -4,11 +4,7 @@ title: Pocket
 app_url: https://getpocket.com/login
 categories:
   - news-weather
-platforms:
-  - windows
-  - osx
-  - linux
-developer: Read It Later
+developer: Read It Later Inc.
 ---
 Pocket is your place to quickly save, discover, and recommend the best, most interesting stories on the Web.
 --

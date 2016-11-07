@@ -4,10 +4,6 @@ title: Netflix
 app_url: https://netflix.com
 categories:
   - entertainment
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Netflix Inc.
 ---
 Netflix is the world’s leading subscription service for watching TV episodes and movies on your device.

@@ -4,12 +4,6 @@ title: Google Photos
 app_url: https://photos.google.com
 categories:
   - photo-video
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: Google Inc.
 ---
 Google Photos is the home for all your photos and videos. Automatically organized and searchable, you can find photos fast and bring them to life. It’s the photo gallery that thinks like you do.

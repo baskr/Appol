@@ -4,10 +4,6 @@ title: Duolingo
 app_url: https://www.duolingo.com
 categories:
   - education
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Duolingo, Inc.
 ---
 Learn English, Spanish, French, German, Italian, Portuguese, Dutch, Irish, Danish, Swedish, Russian, Ukrainian, Esperanto, Polish and Turkish — It’s fast, fun and free.

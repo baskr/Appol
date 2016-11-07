@@ -4,12 +4,6 @@ title: HERE Maps
 app_url: https://maps.here.com
 categories:
   - navigation
-platforms:
-  - windows
-  - osx
-  - linux
-  - android
-  - ios
 developer: HERE Apps LLC
 ---
 Maps inspire us. They invite us to explore. Maps challenge us to find delight in familiar places, and to celebrate the discovery of new ones. They guide us as we travel new routes and offer the reassurance that we'll always be able to find our way home. And now, with HERE Maps, all you need is your phone to put the world in your pocket.

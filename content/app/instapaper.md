@@ -4,10 +4,6 @@ title: Instapaper
 app_url: https://www.instapaper.com
 categories:
   - news-weather
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Instapaper Holdings, Inc.
 ---
 Instapaper is the simplest way to save and store articles for reading: offline, on-the-go, anytime, anywhere, perfectly formatted.

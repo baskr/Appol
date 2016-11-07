@@ -4,10 +4,6 @@ title: Google Play Music
 app_url: https://play.google.com/music
 categories:
   - music
-platforms:
-  - windows
-  - osx
-  - linux
 developer: Google Inc.
 ---
 Google Play Music provides free, ad-supported radio for what you’re doing, how you’re feeling, or what you want to hear. Instantly start radio stations based on songs, artists, or albums, or browse by genre, mood, activity, decade, and more. Bring your own music collection with you by uploading 50,000 of your own songs; then listen to them across Android, iOS, and the web, for free.
