@@ -53,7 +53,7 @@ do
 }
 EOT
 
-  # OS X
+  # macOS
   if [ "$BUILD_TYPE" = "osx" ]
   then
     $(npm bin)/nativefier --name "$config_title" --platform darwin --icon "static/app/$config_id/osx.png" "$config_app_url" ".tmp/source/$config_id"
@@ -129,7 +129,7 @@ done
 # Generate small pngs for web
 for entry in static/app/*
 do
-  convert "$entry/osx.png" -resize 64x64 "$entry/osx.64.png"
+  convert "$entry.png" -resize 64x64 "$entry.web@2x.png"
 done
 hugo
 # Minify

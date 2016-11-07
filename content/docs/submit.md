@@ -12,7 +12,7 @@ Just fill in the form and the app you requested will be added as soon as possibl
 
 ## SUBMIT NEW APP VIA GITHUB (advanced)
 
-Before submitting your app, please notice that while WebCatalog for Desktop (Windows, OS X and Linux) supports any web apps, WebCatalog for Mobile (Android and iOS) only supports web apps that support `standalone` mode. You can check out these documents [[1](https://en.wikipedia.org/wiki/Single-page_application), [2](https://gist.github.com/irae/1042167), [3](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag), [4](https://developer.apple.com/library/iad/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html)] to make sure if your app does, or you can only submit your app for desktop users.
+Before submitting your app, please notice that while WebCatalog for Desktop (Windows, macOS and Linux) supports any web apps, WebCatalog for Mobile (Android and iOS) only supports web apps that support `standalone` mode. You can check out these documents [[1](https://en.wikipedia.org/wiki/Single-page_application), [2](https://gist.github.com/irae/1042167), [3](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag), [4](https://developer.apple.com/library/iad/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html)] to make sure if your app does, or you can only submit your app for desktop users.
 
 To submit a new app, please [open a pull request](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/) with these following changes.
 
@@ -71,7 +71,7 @@ Create a folder named `_APP_ID` in `static/app` and add these following required
 
 `linux.png` (if you want to support Linux desktop): 1024x1024px, should be transparent.
 
-`osx.png` (if you want to support OS X): 1024x1024px, should be transparent. [Design Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/IconsGraphics.html#//apple_ref/doc/uid/20000957-CH14-SW1). OS X icon will be the icon displayed on the website.
+`osx.png` (if you want to support macOS): 1024x1024px, should be transparent. [Design Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/IconsGraphics.html#//apple_ref/doc/uid/20000957-CH14-SW1). macOS icon will be the icon displayed on the website.
 
 `ios.png` (if you want to support iOS): 512x512px, should be not transparent and rounded. Rounded corners of the icon will be handled by iOS. [Design Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html)
 

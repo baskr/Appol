@@ -10,13 +10,13 @@ Web applications like Facebook Messenger, Google Inbox, WhatsApp Web are becomin
 WebCatalog lets you download and use thousands of web apps with the same experiences you have with native apps:
 
 - Full-screen and **distraction-free**
-- Can be easily opened from OS X's **Launchpad & Dock**, Windows's **Start menu**, Android & iOS's **home screen**.
-- Can be easily switched between apps on OS X's **Dock**, Windows's **Taskbar**, Android & iOS's **task switcher**.
+- Can be easily opened from macOS's **Launchpad & Dock** or Windows's **Start menu**.
+- Can be easily switched between apps on macOS's **Dock** or Windows's **Taskbar**.
 
 ---
 <img src="/img/about-screenshot.png" class="image">
 <p class="is-text-centered">
-  Evernote, downloaded and installed from WebCatalog, on OS X El Captitan.
+  Evernote, downloaded and installed from WebCatalog, on macOS El Captitan.
 </p>
 
 
